@@ -1,0 +1,7 @@
+playwright
+python-dotenv
+paramiko
+fastapi
+uvicorn
+apscheduler
+pymysql
